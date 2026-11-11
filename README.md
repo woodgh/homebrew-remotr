@@ -5,7 +5,7 @@ Unofficial Homebrew Cask tap for Remotr. The cask tracks the stable release feed
 Install:
 
 ```sh
-brew tap DuckyBuild/homebrew-remotr
+brew tap woodgh/homebrew-remotr
 brew install --cask remotr
 ```
 
